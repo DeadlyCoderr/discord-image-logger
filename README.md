@@ -1,5 +1,3 @@
-<img src="img/banner.png" width="100%" height="100%" />
-
 <div align="center">
     Join our server for announcements and updates: <a href="https://discord.gg/compers">Join Discord</a>
 </div>
