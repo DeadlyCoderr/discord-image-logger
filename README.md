@@ -5,7 +5,7 @@
 
 ## Features
 
--   Best image logger
+-   Best image logger (combining image logging script with empyrean)
     - Undetected
     - Secure
     - Obfuscated
