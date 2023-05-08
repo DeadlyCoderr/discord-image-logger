@@ -1,4 +1,15 @@
+<img src="https://cdn.discordapp.com/attachments/1098287991807557654/1105174702797881527/image.png" width="100%" height="100%" />
+
 <div align="center">
+    <img src="https://img.shields.io/github/languages/top/neveronsere/image-logger?color=%23000000">
+    <img src="https://img.shields.io/github/stars/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
+    <br>
+    <img src="https://img.shields.io/github/commit-activity/w/neveronsere/image-logger?color=%23000000"> 
+    <img src="https://img.shields.io/github/last-commit/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
+    <br>
+    <img src="https://img.shields.io/github/issues/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
+    <br>
     Join our server for announcements and updates: <a href="https://discord.gg/compers">Join Discord</a>
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
