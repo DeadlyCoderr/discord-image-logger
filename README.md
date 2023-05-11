@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/issues/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
     <img src="https://img.shields.io/github/issues-closed/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
     <br>
-    - Join our server for announcements and updates: <a href="https://discord.gg/compers">Join Discord</a>
+    - Join our server for announcements and updates: <a href="https://discord.gg/hittas">Join Discord</a>
     - Please star the github repository for more updates
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
