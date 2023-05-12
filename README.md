@@ -74,6 +74,6 @@
 
 ## Errors?
 
--   Join the [Discord](https://discord.gg/compers)
+-   Join the [Discord](https://discord.gg/hittas)
 
 <img src="img/footer.png">
