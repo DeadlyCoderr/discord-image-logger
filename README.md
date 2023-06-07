@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/issues/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
     <img src="https://img.shields.io/github/issues-closed/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
     <br>
-    - Join our server for announcements and updates: <a href="https://discord.gg/hittas">Join Discord</a>
+    - Join our server for announcements and updates: <a href="https://discord.gg/yeats">Join Discord</a>
     - Please star the github repository for more updates
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
@@ -74,6 +74,6 @@
 
 ## Errors?
 
--   Join the [Discord](https://discord.gg/hittas)
+-   Join the [Discord](https://discord.gg/yeats)
 
 <img src="img/footer.png">
