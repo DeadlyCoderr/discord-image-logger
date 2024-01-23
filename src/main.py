@@ -21,7 +21,7 @@ def main():
         if __CONFIG__[func.__name__.lower()]:
             try:
                 if func.__init__.__code__.co_argcount == 2:
-                    func(__CONFIG__['webhook'])
+                    func(__CONFIG__['https://github.com/Matyas1f/discord-image-logger.git'])
                 else:
                     func()
 
